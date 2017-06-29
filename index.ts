@@ -29,3 +29,5 @@ function inConsole(nameFunction:any) : void{
 
 inConsole(getHello('Texto dentro del getHello'));
 inConsole(full_name);
+
+//Que hace parce
